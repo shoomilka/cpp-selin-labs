@@ -1,0 +1,12 @@
+Half-sphere volume by Monte-Carlo method
+V1 = 1
+V2 = 0.5
+p2 = 0.5
+N  = 38415
+Nx = 0
+p  = 0
+V  = 0
+m  = inf%
+Volume is in [-nan(ind); -nan(ind)] with probability alpha = 0,95
+Vexact  = 1.5708 is in. 
+

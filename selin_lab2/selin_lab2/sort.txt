@@ -1,0 +1,138 @@
+
+Array generated
+19712 HRA
+31817 CZL
+24575 KBN
+1753 AFO
+20730 VPB
+30150 YII
+7155 GWV
+14307 OZW
+9265 NNB
+10378 MVV
+
+25278 CLX
+17942 ZJX
+9449 VBX
+30826 IUE
+23236 FHL
+26473 BOL
+30118 NAK
+24956 FUR
+22187 LEU
+21007 ETX
+
+19759 DRT
+18452 YJY
+9559 LJE
+3198 EVZ
+18057 BNJ
+18631 NUJ
+25070 DBL
+15723 ODR
+12535 BAV
+2155 FFN
+
+17365 JYK
+31691 OAQ
+24575 XEO
+1044 USE
+28336 WMJ
+7891 ATA
+31591 GBZ
+24856 NTX
+16997 EKH
+3575 NBH
+
+20274 GIZ
+15627 BXI
+11033 PXV
+4334 MZM
+7079 POR
+32194 AGO
+28976 IVA
+8107 VLC
+25930 NRI
+8531 RZX
+
+2384 IYI
+12901 HZH
+17632 ULN
+3602 DYF
+25694 UFS
+4495 TIJ
+14190 FDD
+25237 GII
+16254 TBR
+9695 QBJ
+
+28218 MSH
+17839 RBQ
+29718 ZOC
+18506 CLB
+7879 DJY
+13944 RWP
+18378 YUJ
+4613 NAL
+21212 IXK
+23619 STJ
+
+15488 VMS
+11397 NIU
+14461 DXU
+22181 VVF
+24669 GDP
+8575 HKM
+29167 IJB
+3443 MEH
+7621 EHU
+10983 CQQ
+
+26039 JIC
+195 OEL
+2910 LJK
+756 WHV
+3738 NUZ
+6377 SNX
+15373 AVM
+13337 XTS
+19357 KUU
+30331 FQK
+
+3830 NQO
+26892 ZLQ
+12294 GVO
+16973 SCH
+32639 UJW
+15554 KZS
+21337 BEC
+32117 WVS
+30029 YEX
+2672 XQS
+
+
+Array sorted by Intersort
+Time to sort array of 100 elements by Intersort: 0.00221
+0 compares; 0 moves 
+
+Array sorted by HeapSort
+Time to sort array of 100 elements by HeapSort: 0.00053
+0 compares; 0 moves 
+
+Array generated
+Array sorted by Intersort
+Time to sort array of 1000 elements by Intersort: 0.1042
+0 compares; 0 moves 
+
+Array sorted by HeapSort
+Time to sort array of 1000 elements by HeapSort: 0.0063
+0 compares; 0 moves 
+
+Array generated
+Array sorted by Intersort
+Time to sort array of 10000 elements by Intersort: 6.45
+0 compares; 0 moves 
+
+Array sorted by HeapSort
+Time to sort array of 10000 elements by HeapSort: 0.06
+0 compares; 0 moves 

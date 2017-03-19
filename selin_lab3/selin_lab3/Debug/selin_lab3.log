@@ -1,0 +1,4 @@
+﻿  selin_lab3.cpp
+d:\users\улей\documents\visual studio 2015\projects\selin_lab3\selin_lab3\selin_lab3.cpp(60): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  selin_lab3.vcxproj -> D:\Users\Улей\Documents\Visual Studio 2015\Projects\selin_lab3\Debug\selin_lab3.exe
+  selin_lab3.vcxproj -> D:\Users\Улей\Documents\Visual Studio 2015\Projects\selin_lab3\Debug\selin_lab3.pdb (Full PDB)
